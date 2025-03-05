@@ -1,1 +1,2 @@
 # Covid detection with CT Scans
+Covid Detection with CT Scans is a Python project that leverages deep learning to detect Covid-19 from chest X-ray images. It uses Convolutional Neural Networks (CNNs) built with TensorFlow and Keras for image classification. The model is trained on a dataset of X-ray images to distinguish between Covid-positive and negative cases accurately. OpenCV is used for image processing, while NumPy and Pandas handle data manipulation. The project also includes a user-friendly interface using Streamlit to upload and analyze X-ray images quickly.
